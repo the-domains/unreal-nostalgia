@@ -1,0 +1,14 @@
+layout_spectrum: 0.9332608883269131
+typography_spectrum: 0.6947153378278017
+color:
+  brandStrength: 0.7364862756803632
+  lightness: 0.9383700059261173
+  saturation: 0.009230003925040364
+  rhythmicContrast: 0.42820836370810866
+  brandColors:
+    - '#1A1F2B'
+    - '#30395C'
+    - '#4A6491'
+    - '#85A5CC'
+    - '#D0E4F2'
+name: unreal nostalgia
