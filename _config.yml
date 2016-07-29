@@ -1,4 +1,3 @@
-layout_spectrum: 0.9332608883269131
 typography_spectrum: 0.6947153378278017
 color:
   brandStrength: 0.7364862756803632
@@ -11,5 +10,7 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-name: unreal nostalgia
+layout_spectrum: 0.9332608883269131
+name: Unreal Nostalgia
+title: Unreal Nostalgia
 description: working on a better website
