@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-07-29T23:27:18.660Z'
+datePublished: '2016-07-30T00:33:04.757Z'
 sourcePath: _posts/2016-07-29-cape-haven-two.md
 author: []
 via: {}
-dateModified: '2016-07-29T23:27:18.317Z'
+dateModified: '2016-07-30T00:33:04.394Z'
 title: Cape Haven Two
 publisher: {}
 description: >-
