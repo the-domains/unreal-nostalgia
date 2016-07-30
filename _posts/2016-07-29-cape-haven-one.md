@@ -1,17 +1,17 @@
 ---
-datePublished: '2016-07-29T23:42:22.054Z'
+datePublished: '2016-07-30T00:33:39.778Z'
+sourcePath: _posts/2016-07-29-cape-haven-one.md
 author: []
 via: {}
-dateModified: '2016-07-29T23:42:08.922Z'
+dateModified: '2016-07-30T00:33:39.335Z'
 title: Cape Haven One
 publisher: {}
 description: >-
   Cape Haven One brings you to the City that Hugo Danner built. He’s been gone a
   long time, and his cities been taken over by Super beings from all over. Join
   him as he rediscovers Cape Haven and it’s inhabitants. See more at Immortal
-  Samurai Comics 
+  Samurai Comics
 starred: false
-sourcePath: _posts/2016-07-29-cape-haven-one.md
 inFeed: true
 hasPage: true
 inNav: false
@@ -26,5 +26,7 @@ _type: Article
 # Cape Haven One
 
 Cape Haven One brings you to the City that Hugo Danner built. He's been gone a long time, and his cities been taken over by Super beings from all over. Join him as he rediscovers Cape Haven and it's inhabitants. See more at [Immortal Samurai Comics][0]
+
+what does it all mean?
 
 [0]: http://immortalsamurai.com/
