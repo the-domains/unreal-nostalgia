@@ -1,19 +1,17 @@
 ---
-datePublished: '2016-07-30T00:33:04.757Z'
+datePublished: '2016-08-02T23:57:25.640Z'
 sourcePath: _posts/2016-07-29-cape-haven-two.md
 author: []
 via: {}
-dateModified: '2016-07-30T00:33:04.394Z'
+dateModified: '2016-08-02T23:57:25.265Z'
 title: Cape Haven Two
 publisher: {}
 description: >-
   Cape Haven Two bring Hugo Danner face to face with the Skull-Faced Assassin.
   They’ve never met anyone like each other before. See more at Immortal Samurai
   Comics
-starred: false
-inFeed: true
 hasPage: true
-inNav: false
+starred: false
 url: cape-haven-two/index.html
 _context: 'http://schema.org'
 _type: Article
