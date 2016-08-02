@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-07-30T00:33:39.778Z'
+datePublished: '2016-08-02T23:57:09.819Z'
 sourcePath: _posts/2016-07-29-cape-haven-one.md
 author: []
 via: {}
-dateModified: '2016-07-30T00:33:39.335Z'
+dateModified: '2016-08-02T23:57:09.406Z'
 title: Cape Haven One
 publisher: {}
 description: >-
@@ -11,10 +11,8 @@ description: >-
   long time, and his cities been taken over by Super beings from all over. Join
   him as he rediscovers Cape Haven and it’s inhabitants. See more at Immortal
   Samurai Comics
-starred: false
-inFeed: true
 hasPage: true
-inNav: false
+starred: false
 url: cape-haven-one/index.html
 _context: 'http://schema.org'
 _type: Article
