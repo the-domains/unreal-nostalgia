@@ -1,16 +1,16 @@
-typography_spectrum: 0.6947153378278017
+typography_spectrum: 0.0063714017160236835
 color:
-  brandStrength: 0.7364862756803632
-  lightness: 0.9383700059261173
-  saturation: 0.009230003925040364
-  rhythmicContrast: 0.42820836370810866
+  brandStrength: 0.9757321579381824
+  lightness: 0.2922401048708707
+  saturation: 0.2894383247476071
+  rhythmicContrast: 0.4800641241017729
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-layout_spectrum: 0.9332608883269131
+    - '#4E5768'
+    - '#050608'
+    - '#FFFFFF'
+    - '#B88430'
+    - '#EF4E31'
+layout_spectrum: 0.9172989458311349
 name: Unreal Nostalgia
 navigation:
   - name: Cape Haven One
