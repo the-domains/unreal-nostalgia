@@ -12,5 +12,9 @@ color:
     - '#EF4E31'
 layout_spectrum: 0.9172989458311349
 name: Unreal Nostalgia
+navigation:
+  - name: Comics
+    url: 'http://immortalsamurai.com'
+    type: external
 title: Unreal Nostalgia
 description: working on a better website
