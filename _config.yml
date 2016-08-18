@@ -13,9 +13,6 @@ color:
 layout_spectrum: 0.9172989458311349
 name: Unreal Nostalgia
 navigation:
-  - name: Cape Haven One
-    id: 3f482bc4-107a-45a0-8f55-b25f058cc530
-    type: content
   - name: Cape Haven Two
     id: 896d9437-438e-4f93-8322-e7cd219cffd9
     type: content
