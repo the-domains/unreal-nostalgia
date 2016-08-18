@@ -12,9 +12,5 @@ color:
     - '#EF4E31'
 layout_spectrum: 0.9172989458311349
 name: Unreal Nostalgia
-navigation:
-  - name: Cape Haven Two
-    id: 896d9437-438e-4f93-8322-e7cd219cffd9
-    type: content
 title: Unreal Nostalgia
 description: working on a better website
